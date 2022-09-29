@@ -1,0 +1,38 @@
+;
+;
+[ moleculetype ]
+; name		nrexcl
+  CAL		1
+
+[ atoms ]
+;    nr       type   resnr residue atom   cgnr     charge       mass  typeB    chargeB      massB
+     1         cam     1    CAL   Ca1       1       1.668      40.08   
+     2         cam     1    CAL   Ca2       2       1.668      40.08   
+     3         cam     1    CAL   Ca3       3       1.668      40.08   
+     4         cam     1    CAL   Ca4       4       1.668      40.08   
+     5         cam     1    CAL   Ca5       5       1.668      40.08   
+     6         cam     1    CAL   Ca6       6       1.668      40.08   
+     7         cm      1    CAL    C1       7       0.999      12.01   
+     8         cm      1    CAL    C2       8       0.999      12.01   
+     9         cm      1    CAL    C3       9       0.999      12.01   
+    10         cm      1    CAL    C4      10       0.999      12.01   
+    11         cm      1    CAL    C5      11       0.999      12.01   
+    12         cm      1    CAL    C6      12       0.999      12.01   
+    13         om      1    CAL    O1      13      -0.889      16.00  
+    14         om      1    CAL    O2      14      -0.889      16.00  
+    15         om      1    CAL    O3      15      -0.889      16.00  
+    16         om      1    CAL    O4      16      -0.889      16.00  
+    17         om      1    CAL    O5      17      -0.889      16.00  
+    18         om      1    CAL    O6      18      -0.889      16.00  
+    19         om      1    CAL    O7      19      -0.889      16.00  
+    20         om      1    CAL    O8      20      -0.889      16.00  
+    21         om      1    CAL    O9      21      -0.889      16.00  
+    22         om      1    CAL    O10     22      -0.889      16.00  
+    23         om      1    CAL    O11     23      -0.889      16.00  
+    24         om      1    CAL    O12     24      -0.889      16.00  
+    25         om      1    CAL    O13     25      -0.889      16.00  
+    26         om      1    CAL    O14     26      -0.889      16.00  
+    27         om      1    CAL    O15     27      -0.889      16.00  
+    28         om      1    CAL    O16     28      -0.889      16.00  
+    29         om      1    CAL    O17     29      -0.889      16.00  
+    30         om      1    CAL    O18     30      -0.889      16.00  
